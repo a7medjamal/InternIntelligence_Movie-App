@@ -1,0 +1,2 @@
+C:/Users/A/Downloads/InternIntelligence_movieapp-devolpment/InternIntelligence_movieapp-devolpment/android/app/.cxx/Debug/1v1l524r/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/A/Downloads/InternIntelligence_movieapp-devolpment/InternIntelligence_movieapp-devolpment/android/app/.cxx/Debug/1v1l524r/armeabi-v7a/CMakeFiles/rebuild_cache.dir
